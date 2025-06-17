@@ -1,0 +1,19 @@
+# I found the password using "string"
+# While scrolling through the "man" of string I came across the "-d"
+# parameter which I don't quite understand. I saw that it "reduces
+# the amount of garbage in the output" to I tried it and somehow
+# it worked
+
+# I googled other solutions and came across this
+
+strings data.txt | grep -E "=+{^=}"
+
+# I didn't know that "strings can be used to extract readable strings"
+# Well, I wouldn't use this regex anyway since I'm not a big fan of
+# regexes in general
+
+# Command used
+strings -d (and then manually scanning through the output)
+
+# Password to bandit 10
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

@@ -1,0 +1,16 @@
+# I really don't like regexes. I didn't really do this task. I just
+# copied the answer from stackoverflow. I do understand the concept
+# behind the answer though so at least that's it
+
+# "tr" - used for translating string given 2 inputs, the map of
+# characters that will be replaced and the the "key" that will change
+# these characters accordingly. Maybe not a great explanation but
+# that's how I see it
+
+# Command used
+tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< 
+"Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh"
+
+# Password to bandit12 
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+

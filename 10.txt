@@ -1,0 +1,8 @@
+# This one is very simple
+# "base64" decodes or encodes the desired input
+
+# Command used
+base64 -d data.txt
+
+# Password to bandit 11
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

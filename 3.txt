@@ -1,0 +1,7 @@
+# To list hidden files use 'ls -a'
+
+# Command used
+ls -a
+
+# Password to bandit4
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

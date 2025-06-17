@@ -1,0 +1,20 @@
+# To find the password I first entered the root directory, then I
+# tweaked around with parameters of find specifically
+# "-user <input>" - looks for a file with a specified owner
+# "-group <input" - the same thing but for a group
+# "-size <input>" - looks for a file of a specified size
+
+# My approach was to check all of these flags at once but once I got
+# flooded with a wall of text I quickly abandoned this idea. I have to
+# find a way to exclude the files I don't have permission to in the
+# result
+
+# From now on even if I don't use all the flags/commands that are
+# specified in the instructions I'll try to list them here anyway
+
+# Command used
+find -user bandit7 -size 33c
+cat /var/lib/dpkg/info/bandit7.password
+
+# Password to bandit7
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj

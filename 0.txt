@@ -1,0 +1,2 @@
+# Connect to bandit labs via ssh
+ssh bandit0@bandit.labs.wargames.org -p 2220

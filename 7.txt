@@ -1,0 +1,10 @@
+# To find the password I used grep
+# Some flags to grep I played around with
+# "^" as well as "-w" - Return the whole line where the pattern/string was matched
+# "-n" - Returns the line where regex was matched
+
+# Command used
+grep +w "millionth" data.txt OR grep "^millionth" data.txt
+
+# Password to bandit8
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

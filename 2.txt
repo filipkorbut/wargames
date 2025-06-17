@@ -1,0 +1,10 @@
+# Accessing files with spaces in their names can be done by prefixing
+# the space with "\"
+# ex. "this\ is\ a\ space"
+
+# Command used
+cat spaces\ in\ this\ filename
+
+#Password to bandit3
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+

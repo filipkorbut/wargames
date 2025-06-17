@@ -1,0 +1,8 @@
+# To find the human-readable file I just executed a few cats until
+# I got it right. There's probably a more efficient way to do it
+
+# Command used
+cat
+
+# Password to bandit5
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw

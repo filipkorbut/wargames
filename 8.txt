@@ -1,0 +1,16 @@
+# This one was difficult. I didn't notice I could use "uniq" so I 
+# Went over to stackoverflow and found an answer there 
+# (I will try to avoid this in the future)
+
+# I just want to point out that I'm doing these without the help of
+# Chatgpt and I'm trying to find the solution with the help of 
+# documentations and "man"
+
+# I used a pipe with "uniq" and "sort"
+# Note to myself: uniq -u only works if the identical lines are adjacent 
+
+# Command used 
+sort data.txt | uniq -u
+
+# Password to bandit9
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM

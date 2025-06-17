@@ -1,0 +1,12 @@
+# Bandit1 password
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+# Solution
+# To access the '-' file you have to specify the full path to it
+# in this case './-'
+
+# Command used
+cat ./-
+
+# Password
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx

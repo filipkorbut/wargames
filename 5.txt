@@ -1,0 +1,10 @@
+# To find the file that has 1033 bytes I used
+# "find -size 1033c"
+# '-size' is self explanatory and the value '1033c' means 1033B 
+# (c stand for bytes for whatever reason)
+
+# Command used (in /inhere dir)
+find -size 1033c
+
+# Password to bandit6
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EGls
